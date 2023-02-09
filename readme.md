@@ -10,3 +10,10 @@
 
 ## Test file is using Vitest library and can be run by using command:
 ### - ```npm test```
+
+### (if app does not start after 
+### ```npm run dev```, 
+### you might need to delete node_modules using 
+### ```rm -Rf node_modules```,
+### and then install dependencies again with
+### ```npm install```)
