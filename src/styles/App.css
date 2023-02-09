@@ -1,0 +1,21 @@
+.App {
+  max-width: 700px;
+  margin: 0 auto;
+  min-height: 100px;
+  background-color: #57C2E8;
+  text-align: center;
+  border-radius: 25px;
+}
+
+.header {
+  padding: 1em;
+}
+
+:root {
+  background-color: blanchedalmond;
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  font-size: large;
+  font-weight: bold;
+  
+  --button-height: 60px;
+}
